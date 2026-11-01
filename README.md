@@ -1,2 +1,3 @@
-1. threads&documentation_project - a small project on multithreading in java with accompanying documentation
-the rest - my beginnings in java
+1. threads&documentation_project - a small project on multithreading in java with accompanying documentation the rest - my beginnings in java
+2. miniprojects - a collection of smaller Java projects created while learning object-oriented modelling and implementing UML concepts.
+3. uml-project - an implementation of a UML-based system design project for managing workflows in a municipal office. The project focuses primarily on translating an analytical and design class model into Java, including inheritance, associations, compositions, object persistence and domain logic. A simple GUI was added to demonstrate selected use cases and interactions between the modelled components.
